@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\taxi\taxi\bin\Debug\taxi.exe.config
+C:\Users\LENOVO\source\repos\taxi\taxi\bin\Debug\taxi.exe
+C:\Users\LENOVO\source\repos\taxi\taxi\bin\Debug\taxi.pdb
+C:\Users\LENOVO\source\repos\taxi\taxi\obj\Debug\taxi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\taxi\taxi\obj\Debug\taxi.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\taxi\taxi\obj\Debug\taxi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\taxi\taxi\obj\Debug\taxi.exe
+C:\Users\LENOVO\source\repos\taxi\taxi\obj\Debug\taxi.pdb
