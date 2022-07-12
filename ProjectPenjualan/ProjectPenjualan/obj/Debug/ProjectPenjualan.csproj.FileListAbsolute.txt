@@ -1,0 +1,8 @@
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe.config
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+C:\Users\LENOVO\source\repos\ProjectPenjualan\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
